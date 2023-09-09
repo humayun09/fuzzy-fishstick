@@ -42,17 +42,13 @@ a{
     color: rgb(67, 60, 60);
 }
 .btn-primary{
-   font-size: 30px;
-   padding: 10px 10px 10px 10px;
-   border-radius: 20px ;
+   font-size: 20px;
+   padding: 5px 5px 5px 5px;
+   border-radius: 10px ;
    color: #FFF;
     background-color:#22c96a;
     cursor: pointer;
     border: 1px solid black;
-    
-
-
-
 }
 .banner{
     
